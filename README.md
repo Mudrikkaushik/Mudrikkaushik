@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mudrikkaushik
-- 👀 I’m interested in Machine Learning & Data Science
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects
-- 📫 How to reach me - https://www.mudrikkaushik.tech
+- 👀 I talk about Cyber security , Data Science , AI and ML
+- 🌱 CTO & Co-Founder of Hackerslounge
+- 💞️ looking forward to create a revolution in education sectors of india
+- 📫 Our platform - https://hackerslounge.in/
 
 <!---
 Mudrikkaushik/Mudrikkaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
