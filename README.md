@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Mudrikkaushik
-- 👀 I talk about Cyber security , Data Science , AI and ML
-- 🌱 CTO & Co-Founder of Hackerslounge
-- 💞️ looking forward to create a revolution in education sectors of india
-- 📫 Our platform - https://coderooms.in/
+## Hey there! 👋 I’m Mudrik Kaushik 
 
-<!---
-Mudrikkaushik/Mudrikkaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔒 **CTO & Co-Founder of [Hackerslounge](https://coderooms.in/),** where we’re transforming education with cutting-edge cybersecurity, AI, ML, and data science learning experiences! 🚀
+
+### 👀 About Me:
+- **Passionate** about cybersecurity, data science, AI, and machine learning. I love diving deep into tech to solve real-world problems and stay ahead of the curve.
+- 🌱 **Building Coderooms** to create a revolution in India’s education sector, making tech knowledge accessible and industry-relevant for all learners.
+
+### 📊 Our Vision:
+At Coderooms, we’re committed to empowering the next generation of tech enthusiasts and professionals through hands-on, practical education that aligns with market demands. Join us on this journey to reshape the future of learning in India!
+
+📫 **Let’s connect and collaborate** on projects that push the boundaries of innovation and education! 
