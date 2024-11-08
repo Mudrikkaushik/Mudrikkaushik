@@ -1,12 +1,12 @@
 ## Hey there! 👋 I’m Mudrik Kaushik 
 
-🔒 **CTO & Co-Founder of [Hackerslounge](https://coderooms.in/),** where we’re transforming education with cutting-edge cybersecurity, AI, ML, and data science learning experiences! 🚀
+🔒 **CTO & Co-Founder of [Hackerslounge](https://coderooms.in/)**, where we’re focused on reshaping education in cybersecurity, AI, ML, and data science. 🚀
 
 ### 👀 About Me:
-- **Passionate** about cybersecurity, data science, AI, and machine learning. I love diving deep into tech to solve real-world problems and stay ahead of the curve.
-- 🌱 **Building Coderooms** to create a revolution in India’s education sector, making tech knowledge accessible and industry-relevant for all learners.
+- **Passionate** about cybersecurity, data science, AI, and machine learning. I enjoy exploring technology to solve real-world challenges and stay ahead of new developments.
+- 🌱 **Building Coderooms** to bring meaningful changes in India’s education sector, making tech knowledge accessible and relevant for learners everywhere.
 
 ### 📊 Our Vision:
-At Coderooms, we’re committed to empowering the next generation of tech enthusiasts and professionals through hands-on, practical education that aligns with market demands. Join us on this journey to reshape the future of learning in India!
+At Coderooms, we’re dedicated to empowering the next generation of tech enthusiasts and professionals through practical education aligned with industry needs. Join us in shaping the future of learning in India!
 
-📫 **Let’s connect and collaborate** on projects that push the boundaries of innovation and education! 
+📫 **Let’s connect and collaborate** on projects that drive innovation in technology and education!
