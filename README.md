@@ -12,7 +12,7 @@ Company Page: [Hackerslounge](https://coderooms.in/)
 👀 About Me:
 Passionate about cybersecurity, data science, AI, and machine learning. I enjoy exploring technology to solve real-world challenges and stay ahead of new developments.
 
-🌱 Building Coderooms to bring meaningful changes in India’s education sector, making tech knowledge accessible and relevant for learners everywhere.
+🌱 Building Hackerslounge to bring meaningful changes in India’s education sector, making tech knowledge accessible and relevant for learners everywhere.
 
 📊 Our Vision:
 At Coderooms, we’re dedicated to empowering the next generation of tech enthusiasts and professionals through practical education that is aligned with industry needs. Join us in shaping the future of learning in India!
